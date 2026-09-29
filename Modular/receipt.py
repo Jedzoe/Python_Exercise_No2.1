@@ -1,5 +1,5 @@
 # receipt.py
-from menu import menu
+from Modular.menu import menu
 
 
 def print_receipt(orders, subtotal, discount, total):

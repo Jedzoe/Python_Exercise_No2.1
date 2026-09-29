@@ -1,7 +1,7 @@
 # main.py
 from menu import menu
 from order import take_order
-from billing import calculate_total
+from Modular.billing import calculate_total
 from receipt import print_receipt
 
 

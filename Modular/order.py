@@ -1,6 +1,6 @@
 # order.py
 
-from menu import menu
+from Modular.menu import menu
 
 
 def take_order():
